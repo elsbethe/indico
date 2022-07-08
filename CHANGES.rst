@@ -51,6 +51,8 @@ Improvements
 - Allow events to be favorited (:issue:`1662`, :pr:`5338`, thanks :user:`Leats`)
 - Include abstract content in CSV/Excel export if enabled in the abstract list
   (:issue:`5356`, :pr:`5372`, thanks :user:`rppt`)
+- Add option to translate title and description of categories (:issue:`5353`, 
+  :pr:``, thanks :user:`elsbethe`)
 
 Bugfixes
 ^^^^^^^^
